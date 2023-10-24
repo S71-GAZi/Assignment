@@ -1,0 +1,5 @@
+
+ 1. At first opem Technical_Assesment Project it's an API Project.
+	Then Update Database and run Project.
+2. Then Open Technical_Assesment_Web project and Click " Buy " on top navigation bar .
+        [if any query or Project run related problem please contact Phone: 01760802604, OR email: sorifullahpavelgazi@gmail.com]

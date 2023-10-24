@@ -1,0 +1,340 @@
+﻿@{
+    ViewData["Title"] = "Buy Products";
+    Layout = "_Layout";
+}
+@model InventoryProductVM
+
+<style>
+    .select2-selection, .select2-selection--single {
+        height: 38px !important;
+    }
+</style>
+
+<div class="row m-5 ">
+    <div class="card col-md-12 p-4">
+        <h4>Purchase</h4>
+
+        <div class="row">
+            <div class="col-md-4">
+                <input type="text" class="form-control" placeholder="Bill No" id="billNo" />
+            </div>
+            <div class="col-md-2">
+                <button class="btn btn-info" id="findBtn">Find</button>
+            </div>
+        </div>
+
+        <div class="row my-3">
+            <div class="col-md-5">
+                <select class="form-control form-select" id="productList" style="width: 100%;">
+                    <option selected value="">Add Product Or Items</option>
+                    @foreach (var p in ViewBag.Products)
+                    {
+                        <option value="@p.Id">@p.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="col-md-4">
+                <select class="form-control form-select" id="customerList" style="width: 100%;">
+                    <option selected value="">Select a Customer</option>
+                    @foreach (var c in ViewBag.Customers)
+                    {
+                        <option value="@c.Id">@c.Name</option>
+                    }
+                </select>
+            </div>
+            <div class="col-md-3">
+                <input type="hidden" value="@ViewBag.PurchaseDate" id="minDateOfPurchase" />
+                <input type="date" class="form-control" id="attendenceDate" />
+            </div>
+        </div>
+
+        <div class="row my-3">
+            <div class="col-md-12 table-responsive">
+                <table class="table table-bordered" id="tbl">
+                    <thead style="background-color: #A4C73B; color: white;">
+                        <tr>
+                            <th>Product</th>
+                            <th>Rate</th>
+                            <th>Qty</th>
+                            <th>Total Amount</th>
+                            <th>Discount (Amt)</th>
+                            <th>Net Amount</th>
+                            <th style="display:none;">Product Id</th>
+                        </tr>
+                    </thead>
+                    <tbody></tbody>
+                </table>
+            </div>
+        </div>
+
+        <div class="row my-3">
+            <lable class="col-md-10" style="text-align: right">Net Total</lable>
+            <lable class="border border-1" style="width: 390px; height: 30px;" id="totalNet"></lable>
+        </div>
+
+        <div class="row my-3">
+            <lable class="col-md-10" style="text-align: right">Discount Total</lable>
+            <lable class="border border-1" style="width: 390px; height: 30px;" id="totalDiscount"></lable>
+        </div>
+
+        <div class="row my-3">
+            <lable class="col-md-10" style="text-align: right">Paid Amount</lable>
+            <input class="border border-1" style="width: 390px; height: 30px;" id="paidAmt" />
+        </div>
+
+        <div class="row my-3">
+            <lable class="col-md-10" style="text-align: right">Due Amount</lable>
+            <lable class="border border-1" style="width: 390px; height: 30px;" id="dueAmt"></lable>
+        </div>
+
+        <div class="row my-3">
+            <lable class="col-md-10" style="text-align: right"></lable>
+            <div class="col-md-2 d-flex justify-content-end">
+                <button type="button" id="saveBtn" class="btn btn-sm" style="background-color: #66BBFF; color: white; margin-right: 5px;">SAVE CHANGE</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<script>
+
+    //add product select list change.
+
+    $("#productList").change(function () {
+        var productId = $("#productList").val();
+
+        if (productId != null || productId != "") {
+
+            $.ajax({
+                type: 'GET',
+                url: '@Url.Action("GetProductInfo")?proId=' + productId,
+                success: function (r) {
+                    $("#tbl tbody").append(
+                        `
+                            <tr>
+                                <td>${r.product.name}</td>
+                                <td class="rate">${r.product.rate}</td>
+                                <td>
+                                    <input type="number" class="qty"/>
+                                </td>
+                                <td class="totalAmt"></td>
+                                <td>
+                                    <input type="number" value="0.00" class="discount"/>
+                                </td>
+                                <td class="netAmount"></td>
+                                <td class="proId" style="display:none;">${r.product.id}</td>
+                            </tr>
+                            `
+                    );
+                },
+                error: function (e) {
+                    console.log(e);
+                }
+            });
+
+
+        }
+    });
+    //------------------------amount get-------------------------
+    $("#tbl").on('keyup change',
+        '.qty',
+        function () {
+            var rate = parseFloat($(this).closest('tr').find('td.rate').html()).toFixed(3);
+            var qty = parseFloat($(this).val()).toFixed(3);
+            var amount = parseFloat(rate * qty).toFixed(3);
+            $(this).closest('tr').find('td.totalAmt').html(amount);
+
+            //------------------
+            var discount = parseFloat(($(this).closest('tr').find('.discount').val())).toFixed(3);
+            var netAmount = parseFloat(amount - discount).toFixed(3);
+            if (isNaN(netAmount)) {
+                $(this).closest('tr').find('td.netAmount').html(0.000);
+            } else {
+                $(this).closest('tr').find('td.netAmount').html(netAmount);
+            }
+
+            //--------footer part
+            var totalDiscount = 0;
+            var totalNet = 0;
+            $("#tbl tbody tr").each(function () {
+                totalDiscount += parseFloat($(this).find('.discount').val());
+                totalNet += parseFloat($(this).find('td.netAmount').html());
+            });
+            $("#totalDiscount").html(totalDiscount.toFixed(3));
+            $("#totalNet").html(totalNet.toFixed(3));
+
+            //-------------------due amount
+            var paidAmount = parseFloat($("#paidAmt").val());
+
+            var totalDue = parseFloat(totalNet - paidAmount).toFixed(3);
+            if (isNaN(totalDue)) {
+                $("#dueAmt").html(0);
+            } else {
+                $("#dueAmt").html(totalDue);
+            }
+        });
+
+    //---------------------------discount calculate and net amount get------------
+    $("#tbl").on('keyup change',
+        '.discount',
+        function () {
+            var amount = parseFloat($(this).closest('tr').find('td.totalAmt').html()).toFixed(3);
+            var discount = parseFloat($(this).val()).toFixed(3);
+            var netAmount = parseFloat(amount - discount).toFixed(3);
+            if (isNaN(netAmount)) {
+                $(this).closest('tr').find('td.netAmount').html(0.000);
+            } else {
+                $(this).closest('tr').find('td.netAmount').html(netAmount);
+            }
+
+            //-------------footer part
+            var totalDiscount = 0;
+            var totalNet = 0;
+            $("#tbl tbody tr").each(function () {
+                totalDiscount += parseFloat($(this).find('.discount').val());
+                totalNet += parseFloat($(this).find('td.netAmount').html());
+            });
+            $("#totalDiscount").html(totalDiscount.toFixed(3));
+            $("#totalNet").html(totalNet.toFixed(3));
+
+            //--------------------due amount
+
+            var paidAmount = parseFloat($("#paidAmt").val());
+
+            var totalDue = parseFloat(totalNet - paidAmount).toFixed(3);
+            if (isNaN(totalDue)) {
+                $("#dueAmt").html(0);
+            } else {
+                $("#dueAmt").html(totalDue);
+            }
+        });
+
+    //----------------paid amount type and due amount calculate----------------
+    $("#paidAmt").keyup(function () {
+        var totalNetAmount = parseFloat($("#totalNet").html());
+        var paidAmount = parseFloat($(this).val());
+
+        var totalDue = parseFloat(totalNetAmount - paidAmount).toFixed(3);
+        if (isNaN(totalDue)) {
+            $("#dueAmt").html(0);
+        } else {
+            $("#dueAmt").html(totalDue);
+        }
+
+    });
+
+    //-----------------------save data-----------------------
+    $("#saveBtn").click(function () {
+
+        var InventoryVM = {};
+
+
+        var inventoryProducts = [];
+
+        InventoryVM.AttendanceDate = $("#attendenceDate").val();
+        InventoryVM.BillNo = $("#billNo").val();
+        InventoryVM.CustomersId = $("#customerList").val();
+        InventoryVM.TotalDiscount = $("#totalDiscount").html();
+        InventoryVM.TotalBillAmount = $("#totalNet").html();
+        InventoryVM.DueAmount = $("#dueAmt").html();
+        InventoryVM.PaidAmount = $("#paidAmt").val();
+
+        $("#tbl tbody tr").each(function () {
+
+            var InventoryProductVM = {};
+            InventoryProductVM.InventoryId = 0;
+            InventoryProductVM.ProductId = $(this).find('.proId').html();
+            InventoryProductVM.Rate = parseFloat($(this).find('.rate').html());
+            InventoryProductVM.Qty = parseFloat($(this).find('.qty').val());
+            InventoryProductVM.Discount = parseFloat($(this).find('.discount').val());
+
+            inventoryProducts.push(InventoryProductVM);
+        });
+
+        //console.log(InventoryVM);
+        //console.log(inventoryProducts);
+        var length = $('#tbl tbody tr').length;
+        if (length == 0) {
+            alert("Please select a product");
+        }
+        else if ($("#customerList").val() == "" || $("#customerList").val() == null) {
+            alert("Please select a customer");
+        }
+        else if ($("#attendenceDate").val() == "") {
+            alert("Please select a valid date");
+        }
+        else {
+            $.ajax({
+                type: 'POST',
+                url: '@Url.Action("SaveInventory")',
+                data: { inventory: InventoryVM, inventoryProducts: inventoryProducts },
+                success: function (r) {
+                    window.location.reload();
+                },
+                error: function (err) {
+                    console.log(err);
+                }
+            });
+        }
+    });
+
+
+    //-------------------find button action-----------------
+    $("#findBtn").click(function () {
+        var billNo = $("#billNo").val();
+        $.ajax({
+            type: 'POST',
+            url: '@Url.Action("GetInventoryProducts")?billNo=' + billNo,
+            success: function (r) {
+                (r.inventoryProducts).forEach(function (i) {
+                    $("#attendenceDate").val(i.inventory.tempDate);
+                    $("#customerList").val(i.inventory.customers.id);
+
+                    $("#totalNet").html(i.inventory.totalBillAmount);
+                    $("#totalDiscount").html(i.inventory.totalDiscount);
+                    $("#paidAmt").val(i.inventory.paidAmount);
+                    $("#dueAmt").html(i.inventory.dueAmount);
+
+                    var rate = i.rate;
+                    var qty = i.qty;
+                    var discount = i.discount;
+
+                    var totalAmt = rate * qty;
+                    var netAmount = totalAmt - discount;
+
+                    $("#tbl tbody").append(
+                        `
+                                <tr>
+                                    <td>${i.product.name}</td>
+                                    <td class="rate">${i.rate}</td>
+                                    <td>
+                                        <input type="number" class="qty" value="${i.qty}"/>
+                                    </td>
+                                    <td class="totalAmt">${totalAmt}</td>
+                                    <td>
+                                        <input type="number" value="${i.discount}" class="discount"/>
+                                    </td>
+                                    <td class="netAmount">${netAmount}</td>
+                                    <td class="proId" style="display:none;">${i.productId}</td>
+                                </tr>
+                                `
+                    );
+
+                    console.log(i);
+                });
+
+            },
+            error: function (err) {
+                console.log(err);
+            }
+        });
+    });
+
+    $(document).ready(function () {
+        $.noConflict(true);
+
+
+    });
+
+</script>

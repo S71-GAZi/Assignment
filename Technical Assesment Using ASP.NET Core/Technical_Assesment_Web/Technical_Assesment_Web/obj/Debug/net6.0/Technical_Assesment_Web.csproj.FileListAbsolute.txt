@@ -1,0 +1,1062 @@
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\appsettings.Development.json
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\appsettings.json
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\libman.json
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.staticwebassets.runtime.json
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.exe
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.deps.json
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.runtimeconfig.json
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.pdb
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\mscorlib.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\netstandard.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.AppContext.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Buffers.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Configuration.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Console.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Core.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Data.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Drawing.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Globalization.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Memory.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Numerics.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Json.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Transactions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Web.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Windows.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\WindowsBase.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.csproj.AssemblyReference.cache
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.GeneratedMSBuildEditorConfig.editorconfig
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.AssemblyInfoInputs.cache
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.AssemblyInfo.cs
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.csproj.CoreCompileInputs.cache
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.MvcApplicationPartsAssemblyInfo.cs
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.MvcApplicationPartsAssemblyInfo.cache
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.RazorAssemblyInfo.cache
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.RazorAssemblyInfo.cs
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.Technical_Assesment_Web.Microsoft.AspNetCore.StaticWebAssets.props
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Technical_Assesment_Web.props
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Technical_Assesment_Web.props
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Technical_Assesment_Web.props
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets.pack.json
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets.build.json
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets.development.json
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\scopedcss\bundle\Technical_Assesment_Web.styles.css
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.csproj.CopyComplete
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\refint\Technical_Assesment_Web.dll
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.pdb
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.genruntimeconfig.cache
+H:\REYAD-1260660\PAVEL\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\ref\Technical_Assesment_Web.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\appsettings.Development.json
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\appsettings.json
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\libman.json
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.staticwebassets.runtime.json
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.exe
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.deps.json
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.runtimeconfig.json
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.pdb
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\mscorlib.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\netstandard.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.AppContext.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Buffers.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Configuration.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Console.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Core.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Data.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Drawing.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Globalization.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Memory.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Numerics.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Json.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Transactions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Web.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Windows.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\WindowsBase.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.csproj.AssemblyReference.cache
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.AssemblyInfoInputs.cache
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.AssemblyInfo.cs
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.csproj.CoreCompileInputs.cache
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.MvcApplicationPartsAssemblyInfo.cs
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.RazorAssemblyInfo.cache
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.RazorAssemblyInfo.cs
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.Technical_Assesment_Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Technical_Assesment_Web.props
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Technical_Assesment_Web.props
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Technical_Assesment_Web.props
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets.build.json
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets.development.json
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\scopedcss\bundle\Technical_Assesment_Web.styles.css
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.csproj.CopyComplete
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\refint\Technical_Assesment_Web.dll
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.pdb
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.genruntimeconfig.cache
+F:\Technical Test\Technical_Assesment\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\ref\Technical_Assesment_Web.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\appsettings.Development.json
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\appsettings.json
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\libman.json
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.staticwebassets.runtime.json
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.exe
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.deps.json
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.runtimeconfig.json
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Technical_Assesment_Web.pdb
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Antiforgery.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Cookies.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.Core.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authentication.OAuth.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Authorization.Policy.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Authorization.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Forms.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Server.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Components.Web.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Connections.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.CookiePolicy.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cors.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.Internal.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.DataProtection.Extensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Diagnostics.HealthChecks.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HostFiltering.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Hosting.Server.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Html.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.Common.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Connections.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Extensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Features.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Http.Results.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpLogging.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpOverrides.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.HttpsPolicy.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Identity.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Localization.Routing.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Metadata.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ApiExplorer.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Core.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Cors.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.DataAnnotations.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Json.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Formatters.Xml.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Localization.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.Razor.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.RazorPages.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.TagHelpers.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Mvc.ViewFeatures.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Razor.Runtime.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCaching.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.ResponseCompression.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Rewrite.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Routing.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.HttpSys.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IIS.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.IISIntegration.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Core.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Quic.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Server.Kestrel.Transport.Sockets.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.Session.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Common.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Core.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.SignalR.Protocols.Json.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.StaticFiles.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebSockets.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.AspNetCore.WebUtilities.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.CSharp.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Caching.Memory.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Binder.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.CommandLine.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.EnvironmentVariables.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.FileExtensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Ini.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Json.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.KeyPerFile.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.UserSecrets.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Configuration.Xml.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.DependencyInjection.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Diagnostics.HealthChecks.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Features.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Composite.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Embedded.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileProviders.Physical.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.FileSystemGlobbing.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Hosting.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Http.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Core.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Identity.Stores.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Localization.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Configuration.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Console.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.Debug.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventLog.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.EventSource.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Logging.TraceSource.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.ObjectPool.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.DataAnnotations.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Options.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.Primitives.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Extensions.WebEncoders.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.JSInterop.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Net.Http.Headers.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.Core.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.VisualBasic.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Win32.Primitives.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\Microsoft.Win32.Registry.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\mscorlib.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\netstandard.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.AppContext.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Buffers.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.Concurrent.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.Immutable.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.NonGeneric.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Collections.Specialized.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.Annotations.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.DataAnnotations.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.EventBasedAsync.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.Primitives.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ComponentModel.TypeConverter.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Configuration.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Console.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Core.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Data.Common.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Data.DataSetExtensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Data.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Contracts.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Debug.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.DiagnosticSource.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.EventLog.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.FileVersionInfo.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Process.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.StackTrace.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Tools.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.TraceSource.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Diagnostics.Tracing.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Drawing.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Drawing.Primitives.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Dynamic.Runtime.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Formats.Asn1.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Globalization.Calendars.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Globalization.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Globalization.Extensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.Brotli.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.FileSystem.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Compression.ZipFile.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.AccessControl.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.DriveInfo.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Primitives.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.FileSystem.Watcher.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.IsolatedStorage.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.MemoryMappedFiles.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Pipelines.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Pipes.AccessControl.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.Pipes.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.IO.UnmanagedMemoryStream.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.Expressions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.Parallel.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Linq.Queryable.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Memory.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Http.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Http.Json.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.HttpListener.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Mail.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.NameResolution.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.NetworkInformation.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Ping.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Primitives.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Requests.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Security.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.ServicePoint.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.Sockets.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebClient.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebHeaderCollection.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebProxy.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebSockets.Client.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Net.WebSockets.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Numerics.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Numerics.Vectors.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ObjectModel.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.DispatchProxy.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Emit.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Emit.ILGeneration.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Emit.Lightweight.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Extensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Metadata.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.Primitives.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Reflection.TypeExtensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Resources.Reader.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Resources.ResourceManager.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Resources.Writer.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.Unsafe.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.CompilerServices.VisualC.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Extensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Handles.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Intrinsics.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Loader.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Numerics.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Formatters.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Json.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Primitives.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Runtime.Serialization.Xml.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.AccessControl.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Claims.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Algorithms.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Cng.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Csp.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Encoding.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.OpenSsl.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Primitives.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.X509Certificates.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Cryptography.Xml.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Principal.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.Principal.Windows.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Security.SecureString.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ServiceModel.Web.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ServiceProcess.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encoding.CodePages.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encoding.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encoding.Extensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Encodings.Web.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.Json.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Text.RegularExpressions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Channels.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Overlapped.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Dataflow.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Extensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Tasks.Parallel.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Thread.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.ThreadPool.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Threading.Timer.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Transactions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Transactions.Local.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.ValueTuple.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Web.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Web.HttpUtility.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Windows.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.Linq.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.ReaderWriter.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.Serialization.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XDocument.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XmlDocument.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XmlSerializer.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XPath.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\System.Xml.XPath.XDocument.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\refs\WindowsBase.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\bin\Debug\net6.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.csproj.AssemblyReference.cache
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.GeneratedMSBuildEditorConfig.editorconfig
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.AssemblyInfoInputs.cache
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.AssemblyInfo.cs
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.csproj.CoreCompileInputs.cache
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.MvcApplicationPartsAssemblyInfo.cs
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.MvcApplicationPartsAssemblyInfo.cache
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.RazorAssemblyInfo.cache
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.RazorAssemblyInfo.cs
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.Technical_Assesment_Web.Microsoft.AspNetCore.StaticWebAssets.props
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.build.Technical_Assesment_Web.props
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Technical_Assesment_Web.props
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Technical_Assesment_Web.props
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets.pack.json
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets.build.json
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\staticwebassets.development.json
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\scopedcss\bundle\Technical_Assesment_Web.styles.css
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.csproj.CopyComplete
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\refint\Technical_Assesment_Web.dll
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.pdb
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\Technical_Assesment_Web.genruntimeconfig.cache
+F:\Technical Test\Technical Assesment Using ASP.NET Core\Technical_Assesment_Web\Technical_Assesment_Web\obj\Debug\net6.0\ref\Technical_Assesment_Web.dll

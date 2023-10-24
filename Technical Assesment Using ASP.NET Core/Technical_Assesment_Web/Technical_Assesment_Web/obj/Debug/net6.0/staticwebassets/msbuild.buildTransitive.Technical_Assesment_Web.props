@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Technical_Assesment_Web.props" />
+</Project>

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Technical_Assesment_Web.props" />
+</Project>
